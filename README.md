@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaochen1850
 - 👀 I’m interested in Minecraft
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning nothing
 - 📫 How to reach me lrf1610@126.com
 
 <!---
