@@ -1,7 +1,7 @@
 ## A simple Readme😀
 - 👋 Hi, I’m @shaochen1850
 - 👀 I’m interested in Minecraft, Terraia, Stardew Valley, etc.
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML, Shell script
 - 📫 How to reach me lrf1610@126.com
 
 <!---
